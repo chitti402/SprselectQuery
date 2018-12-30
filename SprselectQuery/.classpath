@@ -2,5 +2,8 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/only jars/spring/spring-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/only jars/spring/spring-jdbc-3.2.4.release.jar"/>
+	<classpathentry kind="lib" path="E:/only jars/ojdbc6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
